@@ -1,0 +1,18 @@
+html {
+    height: 100%;
+    width: 100%;
+}
+
+label,
+div {
+    font-family: cursive;
+    font-size: larger;
+    margin: 3px;
+}
+
+input[type="number"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+}
